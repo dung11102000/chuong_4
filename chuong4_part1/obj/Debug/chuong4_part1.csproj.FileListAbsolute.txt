@@ -1,0 +1,10 @@
+f:\users\ducnt\documents\visual studio 2015\Projects\chuong4\chuong4_part1\bin\Debug\chuong4_part1.exe.config
+f:\users\ducnt\documents\visual studio 2015\Projects\chuong4\chuong4_part1\bin\Debug\chuong4_part1.exe
+f:\users\ducnt\documents\visual studio 2015\Projects\chuong4\chuong4_part1\bin\Debug\chuong4_part1.pdb
+f:\users\ducnt\documents\visual studio 2015\Projects\chuong4\chuong4_part1\obj\Debug\chuong4_part1.csprojResolveAssemblyReference.cache
+f:\users\ducnt\documents\visual studio 2015\Projects\chuong4\chuong4_part1\obj\Debug\chuong4_part1.Properties.Resources.resources
+f:\users\ducnt\documents\visual studio 2015\Projects\chuong4\chuong4_part1\obj\Debug\chuong4_part1.csproj.GenerateResource.Cache
+f:\users\ducnt\documents\visual studio 2015\Projects\chuong4\chuong4_part1\obj\Debug\chuong4_part1.exe
+f:\users\ducnt\documents\visual studio 2015\Projects\chuong4\chuong4_part1\obj\Debug\chuong4_part1.pdb
+f:\users\ducnt\documents\visual studio 2015\Projects\chuong4\chuong4_part1\obj\Debug\chuong4_part1.FrmTinhTong.resources
+f:\users\ducnt\documents\visual studio 2015\Projects\chuong4\chuong4_part1\obj\Debug\chuong4_part1.FrmChaoMung.resources

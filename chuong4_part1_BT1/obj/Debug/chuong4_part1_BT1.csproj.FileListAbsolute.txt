@@ -1,0 +1,19 @@
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong4\chuong4_part1_BT1\bin\Debug\chuong4_part1_BT1.exe.config
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong4\chuong4_part1_BT1\bin\Debug\chuong4_part1_BT1.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong4\chuong4_part1_BT1\bin\Debug\chuong4_part1_BT1.pdb
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong4\chuong4_part1_BT1\obj\Debug\chuong4_part1_BT1.csprojResolveAssemblyReference.cache
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong4\chuong4_part1_BT1\obj\Debug\chuong4_part1_BT1.FrmTinhTong.resources
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong4\chuong4_part1_BT1\obj\Debug\chuong4_part1_BT1.Properties.Resources.resources
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong4\chuong4_part1_BT1\obj\Debug\chuong4_part1_BT1.csproj.GenerateResource.Cache
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong4\chuong4_part1_BT1\obj\Debug\chuong4_part1_BT1.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuong4\chuong4_part1_BT1\obj\Debug\chuong4_part1_BT1.pdb
+C:\Users\dung\Desktop\chuong_4-master\chuong4_part1_BT1\bin\Debug\chuong4_part1_BT1.exe.config
+C:\Users\dung\Desktop\chuong_4-master\chuong4_part1_BT1\bin\Debug\chuong4_part1_BT1.exe
+C:\Users\dung\Desktop\chuong_4-master\chuong4_part1_BT1\bin\Debug\chuong4_part1_BT1.pdb
+C:\Users\dung\Desktop\chuong_4-master\chuong4_part1_BT1\obj\Debug\chuong4_part1_BT1.csprojAssemblyReference.cache
+C:\Users\dung\Desktop\chuong_4-master\chuong4_part1_BT1\obj\Debug\chuong4_part1_BT1.FrmTinhTong.resources
+C:\Users\dung\Desktop\chuong_4-master\chuong4_part1_BT1\obj\Debug\chuong4_part1_BT1.Properties.Resources.resources
+C:\Users\dung\Desktop\chuong_4-master\chuong4_part1_BT1\obj\Debug\chuong4_part1_BT1.csproj.GenerateResource.cache
+C:\Users\dung\Desktop\chuong_4-master\chuong4_part1_BT1\obj\Debug\chuong4_part1_BT1.csproj.CoreCompileInputs.cache
+C:\Users\dung\Desktop\chuong_4-master\chuong4_part1_BT1\obj\Debug\chuong4_part1_BT1.exe
+C:\Users\dung\Desktop\chuong_4-master\chuong4_part1_BT1\obj\Debug\chuong4_part1_BT1.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chuong4_part1", "chuong4_part1\chuong4_part1.csproj", "{17F1183B-74CA-46D8-AAB1-5B2E6DD3F589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chuong4_part1_BT1", "chuong4_part1_BT1\chuong4_part1_BT1.csproj", "{C7880A55-E2D0-4EDF-8DFD-F391B9409BC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17F1183B-74CA-46D8-AAB1-5B2E6DD3F589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F1183B-74CA-46D8-AAB1-5B2E6DD3F589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F1183B-74CA-46D8-AAB1-5B2E6DD3F589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F1183B-74CA-46D8-AAB1-5B2E6DD3F589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7880A55-E2D0-4EDF-8DFD-F391B9409BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7880A55-E2D0-4EDF-8DFD-F391B9409BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7880A55-E2D0-4EDF-8DFD-F391B9409BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7880A55-E2D0-4EDF-8DFD-F391B9409BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
